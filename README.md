@@ -35,3 +35,10 @@ a
 </p>
 <br />
 
+<p>
+<img src="a/a1.png">
+</p>
+<p>
+a
+</p>
+<br />
