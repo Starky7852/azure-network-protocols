@@ -25,10 +25,10 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Step 1 create domain controller and virtual machine onto the same subnet and set the domain conmtrollers private ip to static
+- Step 2 set the vm to have the domain controllers private ip as its dns 
+- Step 3 install active directory domain services and setup a new forest 
+- Step 4 creat an OU for employees, admins, and clients
 
 <h2>Actions and Observations</h2>
 
