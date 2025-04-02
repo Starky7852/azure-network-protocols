@@ -31,7 +31,7 @@ In this tutorial, we go through the basics of network security groups and how to
 <img src="a/a.png">
 </p>
 <p>
-a
+ip settings
 </p>
 <br />
 
@@ -39,6 +39,7 @@ a
 <img src="a/a1.png">
 </p>
 <p>
-a
+dns server
 </p>
 <br />
+
