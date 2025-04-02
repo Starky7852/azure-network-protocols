@@ -28,7 +28,7 @@ In this tutorial, we go through the basics of network security groups and how to
 <h2>Actions and Observations</h2>
 
 <p>
-<img src=/>
+<img src="a/a.png">
 </p>
 <p>
 a
